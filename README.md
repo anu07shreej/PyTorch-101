@@ -18,7 +18,8 @@ Training set is of 50,000 images labelled as 10 different classes : 'airplane', 
 ## PyTorch Dataloader
 A data loader feeds data from the dataset into the Neural Network. Use mini batches of 64 or 128 samples to train data facilitating small memory.
 
-
+## Model Design
+Architecture for the model while initializing weights and biases
 
 
 
