@@ -15,6 +15,13 @@ PyTorch uses data structure called Tensor to store data (I/P, O/P, intermediate 
 ## Implement a NN to recognise objects. Using the CIFAR10 dataset
 Training set is of 50,000 images labelled as 10 different classes : 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. The Test set has 10,000 images. Each image is a RGB 32 X 32.
 
+## PyTorch Dataloader
+A data loader feeds data from the dataset into the Neural Network. Use mini batches of 64 or 128 samples to train data facilitating small memory.
+
+
+
+
+
 
 
 
