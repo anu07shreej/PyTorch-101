@@ -19,8 +19,12 @@ Training set is of 50,000 images labelled as 10 different classes : 'airplane', 
 A data loader feeds data from the dataset into the Neural Network. Use mini batches of 64 or 128 samples to train data facilitating small memory.
 
 ## Model Design
-Architecture for the model while initializing weights and biases
+Architecture for the model and initializing weights and biases
 
+## Model training
+Fit the training data into the model
+
+## Instantiate the Model
 
 
 
